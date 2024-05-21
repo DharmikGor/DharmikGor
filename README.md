@@ -1,4 +1,4 @@
-## Hi I'm Dharmik Gor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Hi I'm Dharmik Gor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
 :mailbox: **Reach me out!**
@@ -25,7 +25,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-#### Let's Connect:
+### Let's Connect:
 
 I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out if you share similar interests or have exciting projects in mind. Let's code something amazing together!
 
